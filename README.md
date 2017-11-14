@@ -3,7 +3,7 @@ simple ios app for plant recognition
 
 This is an IOS application used to recognise plant via google API.
 
-NOTE: I know the code is NOT readable, because I borrowed one mac book for developing this app and I had to return it in one week, so I did not consider much about code rule or naming rule..... All I considered is efficiency.
+NOTE: I know the code is NOT readable, because I borrowed one mac book for developing this app and I had to finish coding quickly, so I did not consider much about code rule or naming rule..... All I considered is efficiency.
 
 In fact google Vision API could identify any objects in an image, so you are not limited to analyse plant images.
 
